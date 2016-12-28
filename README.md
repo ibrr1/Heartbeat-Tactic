@@ -3,11 +3,15 @@
 Contents of This File
 ----------------------
 
- * QUALITY ATTRIBUTES and MORE
+ * Description 
+ * Quality Attributes and More
  * Requirements and Installation
  * Setting Pacemaker Application 
  * Maintenance 
 
+Description
+-----------
+This is an example of applying one of the availability tactics for fault detection which is heartbeat tactic. In this example the heartbeat tactic is being applied in pacemaker device.
 
 Quality Attributes and More
 ---------------------------
