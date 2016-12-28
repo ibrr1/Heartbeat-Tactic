@@ -1,15 +1,15 @@
 # Heartbeat-Tactic
 
-CONTENTS OF THIS FILE
+Contents of This File
 ----------------------
 
  * QUALITY ATTRIBUTES and MORE
- * REQUIREMENTS and INSTALLATION
+ * Requirements and Installation
  * Setting Pacemaker Application 
  * Maintainers
 
 
-Quality Attributes And More
+Quality Attributes and More
 ---------------------------
 
 Name: Pacemaker
