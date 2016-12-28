@@ -55,11 +55,10 @@ Setting Pacemaker Application
 	DAQ:pulse_simulator: *** New pulse generated! *** 10 <br />
 	DAQ:pulse_simulator: *** New pulse generated! *** 6 <br />
 	… <br />
-	<br />
-
+	
 In the example above, DAQ represents the source of the “message”. The line that starts with the 3 stars (***) has a source named PulseGenerator. To simulate the “normal” function of a heart random numbers (range -1-10) are generated. Values 0-10 represents the normal functionality of the heart, and -1 represents either a weak or an absent heartbeat. When -1 is received by the Pulse Generator, an artificially generated heartbeat is generated (0-10) and injected into the heart or in this case the DAQ.
 
-Maintance
+Maintenance
 ----------
 
 If there is any problem in running the application, 
