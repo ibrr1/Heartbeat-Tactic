@@ -6,7 +6,7 @@ Contents of This File
  * QUALITY ATTRIBUTES and MORE
  * Requirements and Installation
  * Setting Pacemaker Application 
- * Maintainers
+ * Maintenance 
 
 
 Quality Attributes and More
